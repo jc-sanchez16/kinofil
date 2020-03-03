@@ -1,3 +1,4 @@
+//hace falta la configuracion correcta de eslint
 {
     "env": {
         "browser": true,
